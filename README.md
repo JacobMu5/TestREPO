@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TestREP
 
 "was machen Sie?"
@@ -16,4 +17,13 @@ what could be done at this point
 =======
 # TestREPO 
 Hola :D
+>>>>>>> origin/main
+=======
+# TestREPO
+Hola :D
+Hello, my name is Natasha and I am 24 years old.
+I study economics at Uni Bonn. 
+My favourite colour is yellow and I love dogs. 
+But, I would not have a yellow dog. 
+
 >>>>>>> origin/main
