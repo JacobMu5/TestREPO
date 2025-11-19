@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TestREP
 
 "was machen Sie?"
@@ -12,3 +13,7 @@ clone
 don'T know what is happening
 
 what could be done at this point
+=======
+# TestREPO 
+Hola :D
+>>>>>>> origin/main
