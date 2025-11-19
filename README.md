@@ -2,28 +2,10 @@
 <<<<<<< HEAD
 # TestREP
 
-"was machen Sie?"
-gegangen 
-gefunden
-gesehen
+How to learn German in 5 days for a job?
+How to get 1.0 with one week preparation?
+How to cook omlette in pressure cooker?
+How to destroy someone's ego in 2 steps?
+How to travel to Switzerland to 50 euros in hand?
+How to learn programming without practicing?
 
-
-
-
-clone 
-don'T know what is happening
-
-what could be done at this point
-=======
-# TestREPO 
-Hola :D
->>>>>>> origin/main
-=======
-# TestREPO
-Hola :D
-Hello, my name is Natasha and I am 24 years old.
-I study economics at Uni Bonn. 
-My favourite colour is yellow and I love dogs. 
-But, I would not have a yellow dog. 
-
->>>>>>> origin/main
